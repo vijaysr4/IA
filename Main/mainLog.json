@@ -1,0 +1,63 @@
+{
+    "pending": {
+        "1221": {
+            "reqFile": "no file",
+            "quotedComp": {
+                "yogeshyoge739@gmail.com": {
+                    "cName": "Yogesh",
+                    "address": "The University of Madras, Guindy,Chennai",
+                    "Mail sent": "Not sent",
+                    "quote": true,
+                    "MailInfo": {
+                        "from": "Yogeshwaran A <yogeshyoge739@gmail.com>",
+                        "to": "teamclumsy@outlook.com",
+                        "subject": "1221",
+                        "date": "Fri, 25 Nov 2022 14:59:32 +0530",
+                        "Attachments": [
+                            "D:\\teamClumsy\\Main\\MailAttachments\\YogeshResponse.xlsx"
+                        ],
+                        "body": "Hello\r\n"
+                    }
+                },
+                "aravindkbarath@gmail.com": {
+                    "cName": "Barath",
+                    "address": "The University of Madras, Guindy,Chennai",
+                    "Mail sent": "Not sent",
+                    "quote": true,
+                    "MailInfo": {
+                        "from": "\"K.Barath Aravind\" <aravindkbarath@gmail.com>",
+                        "to": "teamclumsy@outlook.com",
+                        "subject": "1221",
+                        "date": "Fri, 25 Nov 2022 15:24:49 +0530",
+                        "Attachments": [
+                            "D:\\teamClumsy\\Main\\MailAttachments\\barath&CO.xlsx"
+                        ],
+                        "body": "\r\n"
+                    }
+                }
+            },
+            "resFile": "",
+            "Mail Content": {
+                "subject": "1221",
+                "body": "something"
+            }
+        },
+        "7890": {
+            "reqFile": "D:\\teamClumsy\\Main\\Requests\\7890\\requestfile.xlsx",
+            "quotedComp": {
+                "lavanmu@gmail.com": {
+                    "cName": "DR. B Lavanya",
+                    "address": "UNOM",
+                    "Mail sent": "Tue Nov 29 11:24:09 2022",
+                    "quote": false
+                }
+            },
+            "resFile": "",
+            "Mail Content": {
+                "subject": "Testing Final",
+                "body": "some body content"
+            }
+        }
+    },
+    "completed": {}
+}
