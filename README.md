@@ -1,4 +1,4 @@
-# IA
+# Industrial Automation
 
 The quotation files are shared and received via mail platform. In order to 
 processes these quotations, one must first extract these files from the 
